@@ -1,0 +1,22 @@
+{
+  "name": "seu-barriga-exemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohyvo/seu-barriga-exemplo.git"
+  },
+  "author": "pedro hyvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohyvo/seu-barriga-exemplo/issues"
+  },
+  "homepage": "https://github.com/pedrohyvo/seu-barriga-exemplo#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
