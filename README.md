@@ -1,8 +1,7 @@
-# Rocket.chat - Pedro Hyvo
+# Pedro Hyvo
 
-## Description
+## Descrição
 
-Esse é um teste técnico para a empresa rocket.chat.
 Utilizei o padrão page objects justamente com o custom commands sugerido pelo Cypress.
 
 ## Instalação
@@ -17,7 +16,7 @@ npm install npm@latest -g
 
 Clone o repositório
 ```
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/pedrohyvo/seu-barriga-exemplo.git
 ```
 
 Instale os pacotes npm
